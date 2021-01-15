@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Small memo
-- [React HOC 타이핑에 관한 고민](http://bit.ly/react-hoc-story) 
-- [Next.js에서 Page 컴포넌트의 prop 계산 인터페이스가 바뀐 이유에 대한 추측](https://bit.ly/2Fa2876)
-- [stdout 값을 curl body에 담기](https://bit.ly/3izZk0v)
-- [TypeScript 인덱스 시그니처와 인터페이스](https://bit.ly/2GkhVAR)
-- [현대카드 즉시 결제 자동화를 만들어보자!](https://bit.ly/36GBspP)
